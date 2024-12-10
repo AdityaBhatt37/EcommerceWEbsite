@@ -27,7 +27,7 @@ const products = {
         desc: "Premium quality shoes with enhanced comfort and durability.",
     },
 
-    
+
     //Data for new Arrivals
 
     Tshirt: {
@@ -109,6 +109,34 @@ const products = {
         title: "Embroided co-orde. set",
         price: "₹3300",
         img: "https://i.postimg.cc/59ZmLqRf/Whats-App-Image-2024-12-09-at-22-17-23-600a2ba1.jpg",
+        desc: "Stylish and comfortable dress for all occasions, available in multiple colors.",
+    },
+
+
+
+     //Indian Wedding cloth data
+     saree: {
+        title: "Saree",
+        price: "₹1200",
+        img: "https://i.postimg.cc/s24hQ5ZD/feca9c763fe871369e9666f11c7d-1635348.jpg",
+        desc: "Stylish and comfortable dress for all occasions, available in multiple colors.",
+    },
+    lehnga: {
+        title: "Lehnga",
+        price: "₹1500",
+        img: "https://i.postimg.cc/2S4qMnGF/woman-7729639-640.jpg",
+        desc: "Premium quality dress with enhanced comfort and durability.",
+    },
+    anaarkali: {
+        title: "Anarkali Dress",
+        price: "₹5000",
+        img: "https://i.postimg.cc/SstjCdQq/2Y5A5532.webp",
+        desc: "Stylish and comfortable dress for all occasions, available in multiple colors.",
+    },
+   sharara: {
+        title: "Sharara",
+        price: "₹3300",
+        img: "https://i.postimg.cc/sxkX02ZN/libas-art-hot-pink-embroidered-georgette-a-line-kurta-with-sharara-and-dupatta-libas-1-1800x1800.jpg",
         desc: "Stylish and comfortable dress for all occasions, available in multiple colors.",
     },
 
